@@ -7,7 +7,7 @@ const Footer = () => (
       <div className="grid md:grid-cols-3 gap-10">
         {/* Company */}
         <div>
-          <img src={logoWhite} alt="logo-gema-consultores" className="h-14 w-auto mb-3" />
+          <img src={logoWhite} alt="logo-gema-consultores" className="h-20 w-auto mb-3" />
           <p className="text-primary-foreground/70 text-sm font-body leading-relaxed">
             Firma de comunicación estratégica y marketing digital en Barranquilla. Posicionamos marcas e instituciones con estrategia, ejecución y resultados.
           </p>
