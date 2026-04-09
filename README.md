@@ -1,3 +1,3 @@
-# Welcome to your Lovable project
+# Beautiful Project Studio
 
 TODO: Document your project here
