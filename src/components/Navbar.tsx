@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { Menu, X } from "lucide-react";
-import logoWhite from "@/assets/logo-white.png";
+import logoWhite from "@/assets/logo-gema-consultores.webp";
 
 const WHATSAPP_URL = "https://wa.me/573158888012?text=Hola%2C%20quiero%20solicitar%20un%20diagn%C3%B3stico%20estrat%C3%A9gico%20para%20mi%20organizaci%C3%B3n.";
 
