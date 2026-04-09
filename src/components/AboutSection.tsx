@@ -1,4 +1,4 @@
-import teamImg from "@/assets/team.jpg";
+import teamImg from "@/assets/team.webp";
 import WaveSeparator from "./WaveSeparator";
 import { useInView } from "@/hooks/useInView";
 
@@ -28,7 +28,7 @@ const AboutSection = () => {
           <div className={`${isVisible ? "animate-fade-in-up" : "opacity-0"}`} style={{ animationDelay: "0.15s" }}>
             <img
               src={teamImg}
-              alt="Equipo de Gema Consultores"
+              alt="Consultores-en-comunicación-estratégica-en-Barranquilla"
               className="rounded-xl shadow-lg w-full object-cover aspect-[3/2]"
               loading="lazy"
               width={1280}
