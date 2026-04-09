@@ -19,7 +19,7 @@ const Navbar = () => {
     <header className="fixed top-0 left-0 right-0 z-50 bg-primary">
       <nav className="container flex items-center justify-between h-16 md:h-[72px]">
         <a href="#inicio" className="flex items-center">
-          <img src={logoWhite} alt="Gema Consultores" className="h-10 md:h-12 w-auto" />
+          <img src={logoWhite} alt="logo-gema-consultores" className="h-10 md:h-12 w-auto" />
         </a>
 
         {/* Desktop */}
