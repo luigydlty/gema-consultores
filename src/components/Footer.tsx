@@ -23,7 +23,7 @@ const Footer = () => (
             </li>
             <li className="flex items-center gap-2">
               <Mail className="w-4 h-4 shrink-0" />
-              <span>info@gemaconsultores.com</span>
+              <span>info@gemaconsultores.com.co</span>
             </li>
             <li className="flex items-center gap-2">
               <MapPin className="w-4 h-4 shrink-0" />
